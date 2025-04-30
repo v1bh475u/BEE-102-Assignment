@@ -1,2 +1,0 @@
-Programming-Assignment/mapped.bed filter=lfs diff=lfs merge=lfs -text
-Programming-Assignment/query.bed filter=lfs diff=lfs merge=lfs -text
